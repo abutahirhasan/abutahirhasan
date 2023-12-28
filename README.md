@@ -1,11 +1,11 @@
-* Black Dimond * <br>
-I'm Currently Working on **Agency project**
-I'm Currently Learning **Javascript & react js**
-I'm Looking to collaborate **React Next.js**
-Ask Me about ai and website related information
-How to reach me **athasan242@gmail.com**
-Pronouns... **He/Him**
-Fun Fact: Life is not fun, but everything enjoy in your life
+✔ * Black Dimond * <br>
+ ✔ I'm Currently Working on **Agency project** <br>
+   ✔ I'm Currently Learning **Javascript & react js** <br>
+     ✔ I'm Looking to collaborate **React Next.js** <br>
+       ✔ Ask Me about ai and website related information <br>
+         ✔ How to reach me **athasan242@gmail.com** <br>
+           ✔ Pronouns... **He/Him** <br>
+             ✔ Fun Fact: Life is not fun, but everything enjoy in your life
 
 
 ## 🌐 Socials:
