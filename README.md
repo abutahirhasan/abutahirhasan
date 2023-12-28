@@ -1,4 +1,13 @@
-Hi
+* Black Dimond *
+I'm Currently Working on **Agency project**
+I'm Currently Learning **Javascript & react js**
+I'm Looking to collaborate **React Next.js**
+Ask Me about ai and website related information
+How to reach me **athasan242@gmail.com**
+Pronouns... **He/Him**
+Fun Fact: Life is not fun, but everything enjoy in your life
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/athasan26/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/@abutahirhasan) 
 
